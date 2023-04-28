@@ -1,0 +1,36 @@
+
+html
+{
+	height:100%;
+}
+body
+{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+background-color:lightblue;
+height:100%;
+}
+
+h1
+{
+	display:flex;
+	justify-content:center;
+	color:lightpink;
+
+}
+
+.outerBody
+{
+	border:10px solid white;
+	border-radius:5%;
+	background-color:white;
+	box-shadow:5px darkgrey;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+
+}
+
